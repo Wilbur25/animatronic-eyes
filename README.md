@@ -25,7 +25,14 @@ Features:
 
 0 = Left / Right  
 1 = Up / Down  
-2-5 = Eyelids  
+PCA9685 Wiring
+
+   Servo 0 (LR)
+   Servo 1 (UD)
+   Servo 2 (Top Left lid)
+   Servo 3 (Bottom Left lid)
+   Servo 4 (Top Right lid)
+   Servo 5 (Bottom Right lid)
 
 ## Install
 
